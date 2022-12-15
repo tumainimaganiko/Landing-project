@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+    body{
+        margin: auto;
+    }
+}
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+  }
